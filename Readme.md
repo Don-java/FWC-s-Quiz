@@ -1,6 +1,6 @@
 # 📖 Family Worship Centre (FWC) Quiz App
 
-Welcome to the **Family Worship Centre (FWC) Quiz App**! 🎉 This interactive web-based quiz is designed to help church members and the general public learn more about Family Worship Centre, its mission, values, and key teachings in a fun and engaging way.
+Welcome to the **Family Worship Centre (FWC) Quiz App**! 🎉 This interactive web-based and mobile quiz is designed to help church members and the general public learn more about Family Worship Centre, its mission, values, and key teachings in a fun and engaging way.
 
 ---
 
@@ -10,7 +10,8 @@ Welcome to the **Family Worship Centre (FWC) Quiz App**! 🎉 This interactive w
 ✅ **Interactive UI** – Built with HTML, CSS, and JavaScript for a smooth and enjoyable experience.  
 ✅ **Instant Feedback** – Get immediate results on your answers with scores displayed at the end.  
 ✅ **User-Friendly Design** – Simple, responsive, and mobile-friendly interface.  
-✅ **Educational Purpose** – Learn important details about the church, its vision, values, and leadership.
+✅ **Educational Purpose** – Learn important details about the church, its vision, values, and leadership.  
+✅ **Mobile & Web Compatibility** – Works seamlessly on both mobile devices and web browsers.
 
 ---
 
@@ -24,7 +25,7 @@ Welcome to the **Family Worship Centre (FWC) Quiz App**! 🎉 This interactive w
 
 ## 🚀 How to Use
 
-1. Open the **index.html** file in your web browser.
+1. Open the **index.html** file in your web browser or mobile device.
 2. Click on the **Start Quiz** button to begin.
 3. Answer each question by selecting one of the provided options.
 4. Submit your answers and receive your score at the end of the quiz.
@@ -58,7 +59,13 @@ Want to improve this project? Feel free to fork the repository, make modificatio
 
 ## 📩 Contact
 
-For any questions or feedback, please reach out to us at **[Your Email/Website]** or visit **[FWC’s Official Website]**.
+For any questions or feedback, please reach out to us at info@progenicsengineering.comor visit https://progenics-engineering.com/.
+
+---
+
+## 👨‍💻 Author
+
+This project was developed by **Don Uhana Iji** of **Progenics Engineering Limited**.
 
 ---
 
