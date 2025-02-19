@@ -59,7 +59,7 @@ Want to improve this project? Feel free to fork the repository, make modificatio
 
 ## 📩 Contact
 
-For any questions or feedback, please reach out to us at info@progenicsengineering.comor visit https://progenics-engineering.com/.
+For any questions or feedback, please reach out to us at info@progenicsengineering.com or visit https://progenics-engineering.com/.
 
 ---
 
